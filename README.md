@@ -1,5 +1,15 @@
 # ⚔️ Onimusha: Way of the Sword — Ultimate Trainer & Mod Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=26&duration=2200&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&width=950&height=120&lines=%E2%9A%94%EF%B8%8F+ONIMUSHA+%E2%80%94+WAY+OF+THE+SWORD;WIELD+THE+ONI+GAUNTLET+%E2%80%A2+MASTER+THE+ISSEN;SLAY+THE+GENMA+%E2%80%A2+RECLAIM+KYOTO" alt="Onimusha Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Issen Parry Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=1500&pause=400&color=DC143C&center=true&vCenter=true&width=850&lines=%E5%9F%8E+%E2%80%94+ONI+GAUNTLET+AWAKENED;%E5%9F%8E+%E2%80%94+ISSEN+WINDOW+ACTIVE;%E5%9F%8E+%E2%80%94+GENMA+SLAYER+ENGAGED" alt="Oni Status Bar" />
+</p>
 <p align="center">
   <b>Wield the Oni Gauntlet | Master the Issen | Slay the Genma</b>
 </p>
